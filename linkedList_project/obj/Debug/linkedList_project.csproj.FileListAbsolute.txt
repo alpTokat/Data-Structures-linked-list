@@ -1,0 +1,10 @@
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\bin\Debug\linkedList_project.exe.config
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\bin\Debug\linkedList_project.exe
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\bin\Debug\linkedList_project.pdb
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\obj\Debug\linkedList_project.csprojAssemblyReference.cache
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\obj\Debug\linkedList_project.Form1.resources
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\obj\Debug\linkedList_project.Properties.Resources.resources
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\obj\Debug\linkedList_project.csproj.GenerateResource.cache
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\obj\Debug\linkedList_project.csproj.CoreCompileInputs.cache
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\obj\Debug\linkedList_project.exe
+C:\Users\ALP TOKAT\source\repos\linkedList_project\linkedList_project\obj\Debug\linkedList_project.pdb
