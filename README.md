@@ -1,5 +1,5 @@
 # Linked List
-Her elemanın bir dğerinin yanında referans içeriği veri yapasıdır.
+Her elemanın bir değerinin yanında referans içeriği veri yapasıdır.
 
 ## Uygulama Özellikleri
 
